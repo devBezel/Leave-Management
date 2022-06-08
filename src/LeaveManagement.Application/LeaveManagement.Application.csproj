@@ -22,8 +22,6 @@
       <Folder Include="Features\LeaveRequests\Handlers\Queries\" />
       <Folder Include="Features\LeaveRequests\Requests\Commands\" />
       <Folder Include="Features\LeaveRequests\Requests\Queries\" />
-      <Folder Include="Features\LeaveTypes\Handlers\Commands" />
-      <Folder Include="Features\LeaveTypes\Requests\Commands\" />
     </ItemGroup>
 
 </Project>
